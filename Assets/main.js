@@ -51,7 +51,7 @@ function init() {
 
         main.style.display = 'block';
         setTimeout(() => (main.style.opacity = 1), 0 );
-    }, 600);
+    }, 700);
 }
 
 init();
